@@ -28,4 +28,5 @@ coin.Left = rand.Next(150, 560);
 
 //Движение противников
 <..>
-enemy2.Left = rand.Next(420, 560);```
+enemy2.Left = rand.Next(420, 560);
+```
