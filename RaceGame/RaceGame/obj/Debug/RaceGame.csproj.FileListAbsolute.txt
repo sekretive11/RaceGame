@@ -1,0 +1,10 @@
+D:\Coding\C#\RaceGame\RaceGame\bin\Debug\RaceGame.exe.config
+D:\Coding\C#\RaceGame\RaceGame\bin\Debug\RaceGame.exe
+D:\Coding\C#\RaceGame\RaceGame\bin\Debug\RaceGame.pdb
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.AssemblyReference.cache
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.Properties.Resources.resources
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.GenerateResource.cache
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.CoreCompileInputs.cache
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.exe
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.pdb
+D:\Coding\C#\RaceGame\RaceGame\obj\Debug\RaceGame.MainForm.resources
